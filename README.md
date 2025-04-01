@@ -1,10 +1,10 @@
 # Hi 👋, I'm Mrinank
 
 ## 📈Stats
-<p><img align="left" height= 150px src="https://github-readme-stats.vercel.app/api/top-langs?username=MrinankGaur&show_icons=true&theme=dark&locale=en&layout=compact" alt="karthxk07" /></p>
+<p><img align="left" height= 150px src="https://github-readme-stats.vercel.app/api/top-langs?username=MrinankGaur&show_icons=true&theme=dark&locale=en&layout=compact" alt="MrinankGaur" /></p>
 
 
-<p>&nbsp;<img align="center" height=150px src="https://github-readme-stats.vercel.app/api?username=MrinankGaur&show_icons=true&theme=dark&locale=en" alt="karthxk07" /></p>
+<p>&nbsp;<img align="center" height=150px src="https://github-readme-stats.vercel.app/api?username=MrinankGaur&show_icons=true&theme=dark&locale=en" alt="MrinankGaur" /></p>
 
 ## 🎶 Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,matlab)](https://skillicons.dev)
